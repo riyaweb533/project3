@@ -1,0 +1,62 @@
+.dass{
+    text-align: center;
+    margin-top: 150px;
+    color: white;
+}
+.sec1{
+    background-image: url(business\ image.jpg);
+    height: 700px;
+
+    
+}
+.pass{
+    color: white;
+}
+.pop{
+    text-align: center;
+}
+.hh{
+    height: 20%;
+    width: 20%;
+}
+.inbox1{
+    min-height: 250px;
+    /* width: 300px; */
+    background-color: aqua;
+}
+.sh{
+    background-color: green;
+    min-height: 250px;
+    
+}
+.sec3{
+    text-align: center;
+    background-color: yellow;
+    padding: 100px;
+}
+.sec4{
+    text-align: center;
+    background-color: wheat;
+    padding: 100px;
+}
+.box{
+    min-height: 250px;
+    background-color: cadetblue;
+    margin: auto;
+    
+}
+.sec5{
+    background-color: gray;
+    padding: 100px;
+    
+}
+.ff{
+    color: whitesmoke;
+}
+.ww{
+    background-color: white;
+    padding: 50px;
+}
+.ss{ 
+    background-color: aqua;
+}
